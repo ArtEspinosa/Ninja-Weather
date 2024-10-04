@@ -1,12 +1,13 @@
-body{
+/* This CSS is for the body */
+body {
   background: #b5b3b1;
   letter-spacing: 0.2em;
   font-size: 0.8em;
 }
-.container{
+.container {
   max-width: 400px;
 }
-.icon{
+.icon {
   position: relative;
   top: -50px;
   border-radius: 50%;
