@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 /* This CSS is for the body */
->>>>>>> master
 body {
   background: #b5b3b1;
   letter-spacing: 0.3em;
@@ -10,15 +7,12 @@ body {
 .container {
   max-width: 400px;
 }
-<<<<<<< HEAD
-=======
 
 /* Css for icon Styling */
->>>>>>> master
 .icon {
   position: relative;
   top: -50px;
   border-radius: 50%;
-  width: 100px;
+  width: 105px;
   margin-bottom: -50px;
 }
